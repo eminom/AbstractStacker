@@ -1,0 +1,9 @@
+function getSum(a:integer;b:integer):integer;
+ begin
+  result:=a+b;
+ end;
+
+begin
+ yr:=100;
+ xr:=getSum(23,65);
+end.

@@ -1,0 +1,28 @@
+Feb15th.2oo7
+1.repeat until[done]
+2.循环控制流的break,continue[done]
+3.logicor的popwax[done][裹尸布]
+3.label检测[done]
+5.for调整[done]
+for id:=val1 to val2 
+val1,val2可以是id或num （但是无法估值)
+break,continue伴随循环体修改
+
+Feb16th.2oo7
+1.for的调整(可估值)[done]
+2.标签(label)分级控制[done][reduce the chance of error:)]
+3.debug输出控制[done] with bitset
+
+Feb17th.2oo7
+1.调试选项set<int>[done]
+2.case id of num
+
+Feb19th.2oo7 
+数组能力,(所以有)堆栈机的指令调整
+stmt不再产生logicor
+for id:...和case id of的调整
+
+Feb28th/Mac01.2oo7
+不再支持xlist 
+主函数体应该是标准的(或者近似吧!)Pascal的主程序
+函数能力!
